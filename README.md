@@ -133,7 +133,7 @@ netro dig [domain] [flags]
 
   ```
   netro dig example.com -s
-  ``
+  ```
 
 #### `ifconfig`
 
